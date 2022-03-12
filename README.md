@@ -1,6 +1,4 @@
 # Optimization Class Code
-This file include the python program did in optimization class during 2021 fall
+This file include the python project I did in optimization class during my master degree studying in College of William and Mary, Master of Business Analysis program(2021 Fall).
 
-All but final project are using pulp package in python, final project is using gurobi in python.
-
-All file are on my own
+This project is using gurobi package in python.
